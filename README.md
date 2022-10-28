@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @NonFungibleEsteban
+- 👀 I’m interested in smart contracts
+- 🌱 I’m currently learning python and solidity
+- 💞️ I’m looking to collaborate on web3 projects
+- 📫 How to reach me egomez99@hotmail.es
