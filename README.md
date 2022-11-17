@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @NonFungibleEsteban
-- 👀 I’m interested in smart contracts
+- 👀 I’m interested in solidity and python development
 - 🌱 I’m currently learning python and solidity
 - 💞️ I’m looking to collaborate on web3 projects
 - 📫 egomez99@hotmail.es
