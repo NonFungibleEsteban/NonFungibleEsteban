@@ -3,3 +3,4 @@
 - 🌱 I’m currently learning python and solidity
 - 💞️ I’m looking to collaborate on web3 projects
 - 📫 egomez99@hotmail.es
+- 1 day without coding
